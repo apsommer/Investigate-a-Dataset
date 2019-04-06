@@ -1,6 +1,6 @@
 ## Inverstigate a Dataset
 
-In this project, a dataset is analyzed and the findings communicated using the Python libraries NumPy, pandas, and Matplotlib.
+Worldwide creativity trends are analyzed using the Python libraries NumPy, pandas, matplotlib, and the findings communicated in a Jupyter Notebook.
 
 #### Skills Demonstrated
 

@@ -1,4 +1,4 @@
-## Inverstigate a Dataset
+## Investigate a Dataset
 
 Worldwide creativity trends are analyzed using the Python libraries NumPy, pandas, matplotlib, and the findings communicated in a Jupyter Notebook.
 

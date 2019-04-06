@@ -11,3 +11,7 @@ Worldwide creativity trends are analyzed using the Python libraries NumPy, panda
 - Be able to use vectorized operations in NumPy and pandas to speed up data analysis code.
 - Be familiar with pandas' Series and DataFrame objects, which access data more conveniently.
 - Know how to use Matplotlib to produce plots showing conclusive findings.
+
+#### ![](demo/plot_1.png)
+
+#### ![](demo/plot_2.png)

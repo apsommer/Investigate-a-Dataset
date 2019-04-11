@@ -1,17 +1,14 @@
-## Investigate a Dataset
+# Investigate a Dataset
 
-Worldwide creativity trends are analyzed using the Python libraries NumPy, pandas, matplotlib, and the findings communicated in a Jupyter Notebook.
+This is a data analysis of worldwide creativity trends using Python, NumPy, pandas, and matplotlib, created as part of the [Data Analyst Nanodegree by Udacity](https://www.udacity.com/course/data-analyst-nanodegree--nd002). The logical process and conclusions are presented in a Jupyter Notebook.
 
-#### Skills Demonstrated
+### Skills Demonstrated
 
-- Traverse all the steps involved in a typical data analysis process.
-- Be comfortable posing questions that can be answered with a given dataset and then answering those questions.
-- Know how to investigate problems in a dataset and wrangle the data into a useable format.
-- Have practice communicating the results of your analysis using Jupyter Notebooks.
-- Be able to use vectorized operations in NumPy and pandas to speed up data analysis code.
-- Be familiar with pandas' Series and DataFrame objects, which access data more conveniently.
-- Know how to use Matplotlib to produce plots showing conclusive findings.
+- Wrangling data into a consistent usable format.
+- Manipulation of pandas Series and DataFrame objects.
+- Vectorized operations in NumPy and pandas which optimize code performance.
+- Visualizations using advanced features of matplotlib.
+- Communicating results of the analysis using Jupyter Notebooks.
 
 #### ![](demo/plot_1.png)
-
 #### ![](demo/plot_2.png)
